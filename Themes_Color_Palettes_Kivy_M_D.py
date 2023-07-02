@@ -13,7 +13,7 @@ Location: Nigeria
 
 Date Created: JULY 2, 2023
 
-last modification:: [JULY 2, 2023], 
+last modification:: [JULY 2, 2023]...
 
 """
 from kivymd.app import MDApp
